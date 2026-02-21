@@ -57,21 +57,10 @@ This filtered dashboard demonstrates:
 
 ---
 
-### 🛍️ Category & Outlet Size Insights
-
-![Category Insights](screenshots/category-insights.png)
-
-This view highlights:
-
-- Outlet Size performance comparison (High, Medium, Small)
-- High outlet size total sales: **$84.61K**
-- Average Sales variation across outlet sizes
-- Product category contribution by outlet segment
-- Regular vs Low Fat sales distribution
-
----
 
 ## 📊 Key Business Insights
+
+![Category Insights](screenshots/category-insights.png)
 
 * 📍 Total sales reached **$1.20M**, indicating strong overall business performance.
 * 🏪 Tier 3 outlets contribute the highest total revenue (~$472K).
