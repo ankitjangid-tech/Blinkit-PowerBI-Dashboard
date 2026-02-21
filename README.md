@@ -21,7 +21,7 @@ Key metrics analyzed include Total Sales, Average Sales, Number of Items Sold, A
 
 Click below to explore the live dashboard:
 
-👉 **[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTcwNmEyYTUtZmJlOC00MWUxLWEzZDgtNTEzZjI1YzkzODdiIiwidCI6ImIyZDFjYmQyLWYwMTctNDUyMC04NjA4LThkMjIyNmJlNTkyYSJ9)**
+👉 **[View Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJiNTkyMTktMmJjZS00M2MwLWJkNGQtMjI5NzlhYjZkNjgyIiwidCI6ImIyZDFjYmQyLWYwMTctNDUyMC04NjA4LThkMjIyNmJlNTkyYSJ9&pageName=3a12896bc03acfc67f08)**
 
 ---
 
