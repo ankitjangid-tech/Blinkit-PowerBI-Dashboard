@@ -137,8 +137,8 @@ This project is ideal for:
 **Ankit Jangid**  
 Data Analyst | Power BI Developer  
 
-📌 GitHub: https://github.com/your-username  
-📌 LinkedIn: https://linkedin.com/in/your-profile  
+📌 GitHub: https://github.com/ankitjangid-tech  
+📌 LinkedIn: linkedin.com/in/ankit-jangid-tech  
 
 ---
 
